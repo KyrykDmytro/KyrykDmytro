@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KyrykDmytro
-- 👀 I’m interested in Unity, C# learn
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Unity, C#(.Net) learn
+- 🌱 I’m currently learning C#(.Net)
 - 😄 Pronouns: he
